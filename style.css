@@ -1,0 +1,67 @@
+.b{
+    background-color: darkred;
+    margin: 0%
+}
+.ancor-tags img{
+    width: 10%;
+}
+.ancor-tags{
+    border: solid;
+    border-color: rgb(233, 194, 233);
+    display: inline-flex;
+    background-color: rgb(115, 129, 255);
+}
+#fb{
+    text-decoration: none;
+    background-color: tomato;
+    padding-top: 10px;
+    padding-left: 70px;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
+#twi{
+    text-decoration: none;
+    background-color: skyblue;
+    padding-bottom: 15px;
+    padding-left: 120px;
+    border-radius: 5px;
+    margin: 5px 5px;
+    padding-top: 0px;
+}
+#in{
+    text-decoration: none;
+    background-color: rgb(218, 203, 72);
+    padding-top: 26px;
+    border-radius: 5px;
+    margin: 5px 5px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+#insta{
+    text-decoration: none;
+    background-color: wheat;
+    padding-top: 33px;
+    border-radius: 5px;
+    margin: 5px 5px;
+    padding-left: 15px;
+}
+.portion-one{
+    border: solid;
+    float: left;
+    margin: 11px;
+}
+.flexible-portion{
+    display: flex;
+}
+.flexible-portion img{
+    width:100%;
+}
+#first-writing{
+    padding-right: 5px;
+    text-align: justify;
+    padding-left: 10px;
+    border: ridge;
+    margin: 5px;
+    border-color: cadetblue;
+    border-radius: 3px;
+}
